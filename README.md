@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm GOUTAM PARMAR</h1>
+<h1 align="center">Hi 👋, I'm Goutam Parmar</h1>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
